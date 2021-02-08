@@ -1,2 +1,6 @@
 venv/
 .idea
+images/
+network/__pycache__/
+network/model.h5
+network/000.png
